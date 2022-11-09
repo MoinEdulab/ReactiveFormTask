@@ -1,0 +1,31 @@
+.form-control.ng-touched.ng-invalid {
+    border:1px solid red;
+   }
+   .form-control.ng-touched.ng-valid {
+    border:1px solid green;
+   }
+   #red{
+    color: red;
+   }
+
+ .content{
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+    padding: 3% 3%;
+ }
+ .container{
+    background-color: rgb(251, 251, 251);
+ }
+ button{
+    background-color: aqua;
+    color: aliceblue;
+ }
+ button:hover{
+    background-color: aqua;
+color: rgb(2, 2, 2);
+ }
+ button{
+    display: inline-block;
+   margin-right: 20px;
+ }
